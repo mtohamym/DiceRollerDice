@@ -47,6 +47,5 @@ class MainActivity : AppCompatActivity() {
         }
         resultText.setText(randomInt.toString())
         diceImage.setImageResource(diceDrawable)
-
     }
 }
